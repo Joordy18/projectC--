@@ -1,1 +1,3 @@
-ticktactoe game for c++ project
+C++ projects
+-Tic tac toe
+-QRCode security login
