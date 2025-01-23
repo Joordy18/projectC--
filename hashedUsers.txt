@@ -1,0 +1,11 @@
+Arthur $2b$10$EVLHAguHTZhns6KhxMWJK.yG8yX5hnKG6/6Q1o5l8goryiY5VXiUu
+Alex $2b$10$EVLHAguHTZhns6KhxMWJK.I50TE/Wd4yOZk05R/JYfJ1IWixHBN1G
+Tom $2b$10$EVLHAguHTZhns6KhxMWJK.b9KaWFKblASUpirSOAOS1Szvut6rdfO
+wilfried $2b$10$EVLHAguHTZhns6KhxMWJK.rlphpMsaNunu0io8VCYZNeJYclXw8yW
+john_doe $2b$10$EVLHAguHTZhns6KhxMWJK.V0sVC6zrNvZ4V3O91a1U0c3anSLa9u.
+jane_smith $2b$10$EVLHAguHTZhns6KhxMWJK.ho42.n//mjSyIjO.o7DTS9fxu0iNNtm
+alice_w $2b$10$EVLHAguHTZhns6KhxMWJK.vEj5x4L2LeO2SmqSOz9MYAVdThRRIxK
+lucas $2b$10$EVLHAguHTZhns6KhxMWJK.H/D.lA.7poF22HigGytaG59lb8vD.UW
+estiban $2b$10$EVLHAguHTZhns6KhxMWJK.3DfpGaYs3sitjlW4lBvcsJncAt0zXQq
+enzo $2b$10$FE6PAVbedifnrw7NPmg54eeW.kmK0MuhBGaZGkFATimbe1g8h/pE2
+raphael $2b$10$FE6PAVbedifnrw7NPmg54eM4YuwpUrYxcypWslXycn.3kG2QV5AGC
